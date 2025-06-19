@@ -42,8 +42,7 @@ Otros:
 
 
 📊 GitHub Stats
-![Alejandro's GitHub stats]
-(https://github-readme-stats.vercel.app/api?username=alejandroC4lderon&show_icons=true&theme=dark)
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandroC4lderon&show_icons=true&theme=dark)
 
 🤝 Conectemos
 

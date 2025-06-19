@@ -1,6 +1,8 @@
-**👋 ¡Hola! Soy Alejandro C4lderon
-🚀 SEO Specialist + Python Developer
-Transformando datos SEO en insights accionables a través del código
+<div align="center">👋 ¡Hola! Soy</div>
+<div align="center">🚀 ALEJANDRO CALDERON 🚀</div>
+<div align="center">🔍 SEO SPECIALIST + 🐍 PYTHON DEVELOPER</div>
+<div align="center">💡 Transformando datos SEO en insights accionables a través del código 💡</div>
+
 🔍 SEO Specialist en Dentsu Creative | Latam
 🐍 Python Developer enfocado en automatización SEO
 📊 Data-driven SEO con experiencia en herramientas técnicas

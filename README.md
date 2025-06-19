@@ -1,7 +1,7 @@
-<div align="center">👋 ¡Hola! Soy</div>
-<div align="center">🚀 ALEJANDRO CALDERON 🚀</div>
-<div align="center">🔍 SEO SPECIALIST + 🐍 PYTHON DEVELOPER</div>
-<div align="center">💡 Transformando datos SEO en insights accionables a través del código 💡</div>
+<div align="left">👋 ¡Hola! Soy</div>
+<div align="left">🚀 ALEJANDRO CALDERON 🚀</div>
+<div align="left">🔍 SEO SPECIALIST + 🐍 PYTHON DEVELOPER</div>
+<div align="left">💡 Transformando datos SEO en insights accionables a través del código 💡</div>
 
 🔍 SEO Specialist en Dentsu Creative | Latam
 🐍 Python Developer enfocado en automatización SEO

@@ -52,7 +52,7 @@ Otros:
 
 
 📚 Sobre mí
-Soy un SEO Specialist apasionado por la automatización y el análisis de datos para SEO. Trabajo en Dentsu Creative ayudando a empresas a mejorar su visibilidad orgánica mediante estrategias basadas en datos y herramientas automatizadas desarrolladas en Python.
-Mi enfoque combina el conocimiento técnico de SEO con habilidades de programación para crear soluciones eficientes que optimicen el tiempo y mejoren los resultados.
+Soy un SEO Specialist apasionado por la el mundo de SEO, automatización y el análisis de datos para SEO. Trabajo en Dentsu Creative ayudando a empresas a mejorar su visibilidad orgánica mediante estrategias basadas en datos y herramientas automatizadas desarrolladas en Python.
+Mi enfoque combina el conocimiento Como SEO Specialist con habilidades de programación para crear soluciones eficientes que optimicen el tiempo y mejoren los resultados.
 
 ⭐ ¿Te resultan útiles mis herramientas SEO? ¡Dale una estrella a los repositorios que más te gusten!

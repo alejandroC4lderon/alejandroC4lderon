@@ -47,7 +47,7 @@ Otros:
 🤝 Conectemos
 
 💼 https://www.linkedin.com/in/alejandroc4lderon
-🌐 SeoAventureros
+🌐 SeoAventureros.com
 📧 Contacto: alejandroC4lderon@gmail.com
 
 
